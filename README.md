@@ -1,10 +1,11 @@
 # Yatzy 
 
 # Objective
-The object of Yatzy is to obtain
-the highest score for one or more games. 
-The player with the highest total score 
-for all games (up to 6 games) wins. 
+The objective here was to simulate a random 
+set of numbers rolled from a dice. A lot like the 
+game Yatzy I took time to modify special methods where
+the user can check to see if each indexed number in their hand
+matches a guess they give.  
 
 # Instructions:
 
