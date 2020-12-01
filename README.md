@@ -1,4 +1,4 @@
-# Yatzy 
+# Dice Roller
 
 # Objective
 The object of Yatzy is to obtain
