@@ -1,4 +1,4 @@
-# Yatzy 
+# Dice Roller
 
 # Objective
 The objective here was to simulate a random 
@@ -13,3 +13,4 @@ matches a guess they give.
 2. Create a class for the ways in which a user can guess. 
 3. Create a class that allows our die to auto roll for us. 
 4. Create a scoring sheet that allows you to sum up and return all the values in a specific hand. 
+
