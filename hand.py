@@ -22,8 +22,7 @@ class YatzyHand(Hand):
     def __init__(self, *args, **kwargs):
         super().__init__(size=5, die_class=D6, *args, **kwargs)
 
-    @property # This is going to help us lock away how a 
-    # attribute is collected inside our class. 
+    @property  
     def ones(self):
         return self._by_value(1)
     
